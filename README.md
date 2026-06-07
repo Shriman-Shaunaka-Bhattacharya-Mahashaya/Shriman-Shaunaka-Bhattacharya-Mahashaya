@@ -5,15 +5,18 @@ Computer Science and Engineering undergraduate at the National Institute of Tech
 ## 🛠 Core Technologies
 * **Languages:** C, C++, Java, Python, JavaScript, SQL, Prolog.
 * **Systems & Low-Level:** Linux, Network Programming (TCP/UDP), 8051 Assembly, MIPS Assembly, Arduino.
-* **AI Engineering & Data Science:** Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), TensorFlow, Numpy, Pandas, Streamlit.
+* **AI Engineering & Data Science:** Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), TensorFlow, Numpy, Pandas, Streamlit, Llama 3.1.
 * **Databases:** MySQL, MongoDB, ChromaDB.
-* **Web Development:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS.
-* **Tools:** Git.
+* **Web Development:** HTML, CSS, JavaScript, Node.js, Express.js, React, Next.js, Tailwind CSS.
+* **Tools:** Git, Cloudinary.
 
 ## 🚀 Featured Work
+* **EduTube (AI-Powered Learning Platform):** Built a full-stack educational platform utilizing a zero-cost local RAG pipeline (`@xenova/transformers`) and MongoDB Atlas Vector Search. Engineered an AI routing layer via Groq (Llama 3.1) to map natural language to O(1) full-text indexes, replacing inefficient O(N) database scans. Implemented strict state consistency via concurrent cascading teardowns across DB and CDN layers.
 * **Autonomous Codebase Guardian:** Engineered an autonomous system capable of monitoring, analyzing, and maintaining codebase integrity. Implemented Retrieval-Augmented Generation (RAG) with ChromaDB for contextual code retrieval and utilized the Model Context Protocol (MCP) for complex agent-based interactions.
+<!--
 * **Computer Vision & Landmark Detection:** Utilized VGG19 to identify landmarks from image datasets with CSV referencing, and implemented ResNet50 for specific category pet face image classification.
 * **Sentiment Analysis:** Built a TensorFlow-based text classification model for processing and categorizing movie reviews.
+-->
 
 ## 🌐 Profiles & Connect
 * **Connect:** [LinkedIn](https://www.linkedin.com/in/sounak-bhattacharya-b0597a29b/) | [GitHub](https://github.com/Shriman-Shaunaka-Bhattacharya-Mahashaya) | [Email: bhattacharyasounak3@gmail.com](bhattacharyasounak3@gmail.com)
