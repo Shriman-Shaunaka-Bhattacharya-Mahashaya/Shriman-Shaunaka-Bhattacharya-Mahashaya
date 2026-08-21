@@ -1,6 +1,6 @@
 # Sounak Bhattacharya
 
-Computer Science and Engineering undergraduate at the National Institute of Technology Durgapur and former Software Engineering Intern at Qualcomm (MM-APT). I specialize in building robust software systems, implementing machine learning architectures, and bridging low-level system design with autonomous AI tools.
+Computer Science and Engineering undergraduate at the National Institute of Technology Durgapur and former Interim Engineering Intern at Qualcomm (MM-APT). I specialize in building robust software systems, implementing machine learning architectures, and bridging low-level system design with autonomous AI tools.
 
 ## Core Technologies
 * **Languages:** C, C++, Java, Python, JavaScript, SQL, Prolog.
